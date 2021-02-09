@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller5", "Taller5\Taller5.csproj", "{373D40A3-5918-41F9-90BF-1888626D0A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller5.Tests", "Taller5.Tests\Taller5.Tests.csproj", "{8641E662-1D13-4151-B8DE-0EA4D0E1CD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373D40A3-5918-41F9-90BF-1888626D0A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373D40A3-5918-41F9-90BF-1888626D0A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373D40A3-5918-41F9-90BF-1888626D0A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373D40A3-5918-41F9-90BF-1888626D0A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8641E662-1D13-4151-B8DE-0EA4D0E1CD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8641E662-1D13-4151-B8DE-0EA4D0E1CD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8641E662-1D13-4151-B8DE-0EA4D0E1CD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8641E662-1D13-4151-B8DE-0EA4D0E1CD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B83940-4422-4D71-B096-EA3B37732162}
+	EndGlobalSection
+EndGlobal
